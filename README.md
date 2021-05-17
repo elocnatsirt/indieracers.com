@@ -1,6 +1,12 @@
 # <a href="https://indieracers.com" target="_blank">#indieracers.com</a>
 
-A website for the <a href="https://twitter.com/search?q=%23indieracers&f=live" target="_blank">#indieracers</a> community that lists [the guidelines](./guidelines.md) and aggregates all the #indieracers Twitter posts into an easy to read feed!
+A website for the <a href="https://twitter.com/search?q=%23indieracers&f=live" target="_blank">#indieracers</a> community that lists [the guidelines](./guidelines.html) and aggregates all the #indieracers Twitter posts into an easy to read feed!
+
+## What is #indieracers?
+
+#indieracers is a weekly Twitter event designed to boost the visibility of indie racing games which are currently in development or have been out for <1 year.
+
+Check out the [guidlines page](./guidelines.html) for more information.
 
 ### Credits
 
