@@ -1,73 +1,52 @@
-
 <!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
 
-    <title>#indieracers</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  </head>
+        <meta charset="UTF-8">
 
-  <body>
-    <div class="container">
-      <div>
-        <center>
-          <a href="https://twitter.com/search?q=%23indieracers&f=live" target="_blank"><img style="width: 100%; height: auto;" src="images/indieracersbanner.jpg"/></a>
-          <h5>
-            <a href="./guidelines.html">Hosting Guidelines</a>
-          </h5>
-        </center>
-      </div>
-    <div class="row">
-      <div class="col">
-        <div class="row">
-          <div class="col col-md-offset-1" id="divResults" style="width: 100%; height: auto; max-width: 960px;">
-          </div>
+        <link href="https://fonts.googleapis.com/css?family=Text+Me+One|Muli|Philosopher" rel="stylesheet">
+
+        <title>#IndieRacers weekend!🏎️===💨</title>
+
+        <link rel="canonical" href="https://IndieRacers.com"/>
+
+        <link rel="shortcut icon" href="r/icon.jpg"/>
+
+        <link rel="stylesheet" type="text/css" href="r/s.css" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <script src="r/bridge.min.js"></script>
+        <script src="r/IndieRacersWE.min.js"></script>
+    </head>
+
+    <body>
+
+        <img src="r/indieracersWeekend3.jpg" id="bannerDontOverflow"/>
+
+        <div id="date">
+
+            FRIDAY AUGUST 26, 5PM GMT<br/>MONDAY AUGUST 29, 5PM GMT
         </div>
-      </div>
-      </div>
-    </div>
 
-    <script type="text/template" id="tplItem">
-      <div class="list-group">
-        {{#statuses}}
-        <p>{{entities.urls[0].expanded_url}}</p>
-        <a href="https://twitter.com/{{user.screen_name}}/status/{{id_str}}" class="list-group-item" target="_blank">
-          <img src="{{user.profile_image_url_https}}" style="border-radius: 50%;"> <b>@{{user.screen_name}}</b>
-          <span class="badge badge-dark">{{favorite_count}} likes</span>
-          {{text}}
-        </a>
-        {{/statuses}}
-      </div>
-    </script>
+        <div id="headlines">
 
-    <!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.1/mustache.js"></script>
-    <script src="./tweetjs.js"></script>
-    <script>
+            THE SMALLEST AND INDIE-EST FESTIVAL YOU CAN DREAM OF!<br/>
+            11+ INDIE RACING GAMES FEATURED!<br/>
+            <br/>
+            DEMOS - CONTESTS - GIFTS - SALES - STREAMS
 
-      $(init);
-      function init() {
-        $(searchQuery);
-      }
+            <div id="streamers">
 
-      function searchQuery() {
-        TweetJs.Search("#indieracers exclude:retweets",
-          function(data) {
-            var tpl = $("#tplItem").html();
-            var strHtml = Mustache.render(tpl, data);
-            $("#divResults").html(strHtml);
-          });
-      }
+                <i>Want to stream the event? <a target="_blank" href="https://forms.gle/h8cJfu1m3dtK4b1e6">Reach out!</a></i>
+            </div>
+        </div>
 
-    </script>
-  </body>
-
-  <footer>
-    <center><p>Tweets via <a href="https://tweetjs.com/" target="_blank">TweetJS.com</a></p></center>
-  </footer>
+        <div id="games"></div>
+    </body>
 </html>

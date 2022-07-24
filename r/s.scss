@@ -1,0 +1,170 @@
+/* 
+https://coolors.co/app/cbe896-fffffc-beb7a4-ff7f11-ff1b1c
+*/
+
+/*"By default, flex items won't shrink below their minimum content size (the length of the longest word or fixed-size element). To change this, set the ‘min-width’ or ‘min-height’ property."*/
+$bandeau: #E8E9EB;
+$fond: #2D8DAF;
+$liens: #ff7f11;
+$texte: #23395B;
+$blanc: #E8E9EB;
+$bleu: #2D8DAF;
+$bloc: #EFEDEC;
+$titre: #23395B;
+$fondJeu:#ffffff;
+
+$gamePicX: 616px;
+$gamePicY: 353px;
+$gamePicYm40: 313px;
+
+$fonteTitre: 'Philosopher', sans-serif;
+$TitleSize: 29px;
+
+$fonteTexte: 'Muli', sans-serif;
+$DescriptionSize: 15px;
+
+$fonteCarree: 'Text Me One', sans-serif;
+$SubTitleSize: 19px;
+
+$SmallSize: 17px;
+
+/*Attention, Edge ne permet pas (par resize de sa fenêtre) d'avoir un body de 320px de large.
+Son minimum est au delà, la droite du body est croppée si on réduit sa fenêtre pour tenter d'atteindre 320px... :\
+Ca fonctionne bien sous Chrome...*/
+
+/*Globalement, affecter width/height ou min-width/height ou max-width/height
+au lieu de flex-basis pour la direction concernée semble mal fonctionner avec les flexBoxs... :\*/
+
+html, body, td, tr, img, div, span{
+    font-style: normal;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    background: inherit;
+    font-style: inherit;
+}
+
+img{
+    vertical-align: middle;
+}
+/*Sans cela, les images ont toujours un léger padding en dessous... Merveilleux...*/
+
+a:link {
+    color: $liens;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:visited {
+    color: $liens;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: $liens;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.link {
+    color: $liens;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link.visited{
+    color: $liens;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: $liens;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+body{
+    background: $fond;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: $fonteTitre;
+    font-size: 16px;
+    color: $texte;
+}
+
+#date{
+    color: $fondJeu;
+    text-align: center;
+    margin: 46px;
+    font-family: $fonteCarree;
+    font-size: $TitleSize;
+    font-weight: bold;
+}
+#headlines{
+    color: $fondJeu;
+    text-align: center;
+    margin-bottom: 93px;
+    font-family: $fonteCarree;
+    font-size: $TitleSize;
+    font-weight: bold;
+}
+
+#streamers{
+    margin-top: 5px;
+    font-size: $SmallSize;
+}
+
+div.game{
+    margin-bottom: 93px;
+    background: $fondJeu;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+div.gameText{
+    margin: 20px;
+    width: 400px;
+    height: $gamePicYm40;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+div.gameTitle{
+    font-family: $fonteTitre;
+    font-size: $TitleSize;
+    font-weight: bold;
+}
+
+div.gameSubTitle{
+    margin-top: 15px;
+    font-family: $fonteCarree;
+    font-size: $SubTitleSize;
+}
+
+div.gameDescription{
+    margin-top: 20px;
+    font-family: $fonteTexte;
+    font-size: $DescriptionSize;
+}
+
+#bannerDontOverflow{
+    width: 100%; 
+    max-width: 1000px;
+}
+
+img.gamePic{
+    width: 100%; 
+    max-width: $gamePicX;
+}
