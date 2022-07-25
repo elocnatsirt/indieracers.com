@@ -132,13 +132,25 @@ div.game{
 }
 
 div.gameText{
-    margin: 20px;
-    width: 400px;
-    height: $gamePicYm40;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: stretch;
+}
+
+@media screen and (max-width: $gamePicX) {
+    div.gameText{
+        margin: 10px;
+        width: 300px;
+    }
+}
+
+@media screen and (min-width: $gamePicX) {
+    div.gameText{
+        margin: 20px;
+        width: 400px;
+        height: $gamePicYm40;
+    }
 }
 
 div.gameTitle{
