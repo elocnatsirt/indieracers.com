@@ -4,7 +4,7 @@ A website for the <a href="https://twitter.com/search?q=%23indieracers&f=live" t
 
 ## What is #indieracers?
 
-#indieracers is a weekly Twitter event designed to boost the visibility of indie racing games which are currently in development or have been out for <1 year.
+#indieracers is a weekly Twitter event designed to boost the visibility of indie racing games.
 
 Check out the [guidlines page](https://indieracers.com/guidelines) for more information.
 
