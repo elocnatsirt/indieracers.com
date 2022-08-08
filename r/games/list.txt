@@ -11,3 +11,4 @@ BuggyGame
 RaceMeNow
 TCPDgame
 Eggcelerate
+StealthKart
