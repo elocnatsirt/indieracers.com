@@ -12,3 +12,7 @@ RaceMeNow
 TCPDgame
 Eggcelerate
 StealthKart
+ANXRacers
+RaceCondition
+Gearshifters
+Rayze
