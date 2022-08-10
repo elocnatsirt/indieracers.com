@@ -1,10 +1,14 @@
 Download the demo during <b>#IndieRacersFestival</b>!<br/>
 <br/>
-Be one of the first 3 players to find the secret message OR win a multiplayer match, take a screenshot, & send to/tag #TCPDgame + <a target="blank" href="https://twitter.com/elocnat">@elocnat on Twitter</a> <b>to win a Steam key</b>!<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<a target="blank" href="https://store.steampowered.com/app/1677250/Tristan_Coles_Pro_Driver/">Steam</a> - 
+Win a Steam key! Be one of the first 3 players to:
+<ol>
+<li>Find the secret message in LATC <b>OR</b> win a multiplayer match!</li>
+<li>Take a screenshot and post a tweet:</li>
+<ul>
+<li>Tag <a target="blank" href="https://twitter.com/elocnat">@elocnat</a></li>
+<li>Use the hashtags <a target="blank" href="https://twitter.com/search?q=%2523TCPDgame">#TCPDgame</a> and <a target="blank" href="https://twitter.com/search?q=%2523IndieRacersFestival">#IndieRacersFestival</a></li>
+</ul>
+</ol>
+<a target="blank" href="https://store.steampowered.com/app/1677250/Tristan_Coles_Pro_Driver/?utm_source=indieracers">Steam</a> - 
 <a target="blank" href="https://twitter.com/elocnat">Twitter</a> - 
 <a target="blank" href="https://elocnat.itch.io/tcpdgame">itch.io</a>
