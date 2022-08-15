@@ -21,3 +21,4 @@ Zeepkist
 Rallyallyally
 DriftingKings
 UltimateGodspeed
+ChairRacingSimulator
