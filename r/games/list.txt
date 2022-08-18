@@ -23,3 +23,4 @@ DriftingKings
 UltimateGodspeed
 ChairRacingSimulator
 MetricRacer
+RatRacer
