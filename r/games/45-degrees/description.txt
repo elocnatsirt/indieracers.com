@@ -1,0 +1,12 @@
+Two spaceships on the run! You can only take <b>45° turns</b>,
+scrolling at lightspeed in the winding corridors of a gigantic spaceship.
+Will you take the risk of going faster, or will you let your opponent outrun you?
+<br/>
+<br/>
+You earn points each time your opponent goes off the camera’s range.
+After 3 minutes, the player who has the most points wins!
+<br/>
+<br/>
+Want to know if you are really good at the game? <b>Try to beat the AI!</b>
+<br/>
+<a target="blank" href="https://spaceconcombre.itch.io/45">itch.io</a>
