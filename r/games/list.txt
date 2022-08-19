@@ -24,3 +24,5 @@ UltimateGodspeed
 ChairRacingSimulator
 MetricRacer
 RatRacer
+45-degrees
+RunnerParty
