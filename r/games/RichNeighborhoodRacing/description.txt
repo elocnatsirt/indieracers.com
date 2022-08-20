@@ -1,0 +1,10 @@
+Rich Neighborhood Racing is an exciting Top Down Racing Game with a highly realistic Car Controller.<br/>
+Take control of your Car & display your racing skills on different Tracks in Multiple Race Modes.<br/>
+- Robust AI cars which are difficult to beat.<br/>
+- Hand Drawn Pixel Art.<br/>
+- Race & Time Trial Mode with additional Fun Racing mode.<br/>
+- Three exciting Tracks.<br/>
+- Multiple Cars with Upgrade system.<br/>
+- Clear arduous Obstacles in Time Trial mode.<br/>
+<a target="blank" href="https://play.google.com/store/apps/details?id=com.janmadgames.RichNeighborhoodRacing&hl=en_IN&gl=US">Google Play</a> - 
+<a target="blank" href="https://twitter.com/whitedwarfak">Twitter</a>
