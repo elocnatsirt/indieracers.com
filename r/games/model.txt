@@ -1,0 +1,20 @@
+        
+        <div class="game">
+
+            §imgLinkStart§<img class="gamePic" src="r/games/§GameFolder§/image616x353.jpg"/>§imgLinkEnd§
+            
+            <div class="gameText">
+                
+                <div class="gameTitle">
+                    §GameTitle§
+                </div>
+                
+                <div class="gameSubTitle">
+                    §GameSubTitle§
+                </div>
+                
+                <div class="gameDescription">
+                    §GameDescription§
+                </div>
+            </div>
+        </div>
