@@ -1,2 +1,5 @@
 ClassicSportDriving
 ANXRacers
+ChairRacingSimulator
+Riding Seas
+Slopecrashers
