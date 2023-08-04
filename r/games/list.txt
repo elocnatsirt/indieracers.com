@@ -1,5 +1,5 @@
 ClassicSportDriving
 ANXRacers
 ChairRacingSimulator
-Riding Seas
+RidingSeas
 Slopecrashers
