@@ -7,3 +7,5 @@ TristanColesProDriver
 TrayRacers
 SmellsLikeBurntRubber
 Zeepkist
+Eggcelerate
+NearTheFear
