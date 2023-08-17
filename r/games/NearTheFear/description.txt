@@ -1,12 +1,9 @@
 <b>Near The Fear is a roguelite racing game</b> with a theme of dealing with fear, set in surreal world of subconscious.<br/>
-<br/>
  * Drive on procedurally generated tracks that change based on your playstyle<br/>
  * Use special abilities to either face the danger or avoid it<br/>
  * Get random upgrades and change how you play each run <br/>
 <br/>
-<b>Let's make it interesting...</b><br/>
-To win a <b>Steam key</b> post a endgame screenshot of your run on my <a target="blank" href="https://discord.com/invite/vYJwUuVmPh">discord. </a> As this is a <b>race</b> festival, first 3 players with the lowest number of deaths win!
-<br/>
+To win a <b>Steam key</b> post a endgame screenshot of your run on my <a target="blank" href="https://discord.com/invite/vYJwUuVmPh">discord. </a> First 3 players with the lowest number of deaths win!
 <br/>
 <a target="blank" href="https://store.steampowered.com/app/1927200/Near_the_Fear">Steam</a> - 
 <a target="blank" href="https://twitter.com/NearTheFearGame">Twitter</a> -
