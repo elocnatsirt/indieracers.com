@@ -11,3 +11,6 @@ Eggcelerate
 NearTheFear
 LoseCTRL
 MetricRacer
+RCRevolution
+Phaseshift
+TheKarters2
