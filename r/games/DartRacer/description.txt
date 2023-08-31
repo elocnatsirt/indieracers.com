@@ -1,0 +1,7 @@
+Dart Racer is an immersive VR arcade racing game set in a galaxy obsessed with speed. Master the controls, fine-tune your dart, and compete in thrilling races across a variety of strange environments.
+<br><br>
+Race in the Steam demo today!
+<a target="blank" href="https://store.steampowered.com/app/2401910/Dart_Racer/">Steam</a> - 
+<a target="blank" href="https://www.meta.com/en-gb/experiences/6918614874833696/">App Lab</a> - 
+<a target="blank" href="https://discord.gg/sDgGjSXAbq">Discord</a> - 
+<a target="blank" href="https://twitter.com/evilentity">Twitter</a>
